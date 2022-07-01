@@ -22,7 +22,7 @@
 <br/>
 
 I'm just turning the Node.js course notes on my notebook into a repository that other people can use.
-I took several courses from different resources, so if there's anything that you find confusing or hard to understand please check the official [documentation](https://node.js.org/docs), or ask me anything **[here.](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)**
+I took several courses from different resources, so if there's anything that you find confusing or hard to understand please check the official **[documentation](https://node.js.org/docs)**, or ask me anything **[here.](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)**
 You can also reach me at <a href="mailto:abdo.achhoubi3@gmail.com"><b>abdo.achhoubi3@gmail.com</b></a>
 
 </div>
@@ -34,8 +34,9 @@ You can also reach me at <a href="mailto:abdo.achhoubi3@gmail.com"><b>abdo.achho
 
 ## Table of Content
 
-1. [What is Node.js]()
-2. [Installation and usage]()
-3. [Built-in Modules]()
-4. [User Defined Modules]()
-5. [HTTP Module]()
+1. **[What is Node.js](https://github.com/abdoachhoubi/nodejs-notes/tree/main/01%20NodeJS)**
+2. **[Installation and usage](https://github.com/abdoachhoubi/nodejs-notes/tree/main/02%20Installation)**
+3. [Built-in Modules (Not available yet)](#)
+4. [User-defined Modules (Not available yet)](#)
+5. [HTTP Module (Not available yet)](#)
+6. [File System (Not available yet)](#)
