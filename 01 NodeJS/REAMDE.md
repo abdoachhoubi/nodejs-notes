@@ -34,6 +34,6 @@ Node.js is primarily used to build network programs such as Web servers. The mos
 
 ## When is Node.js not a good idea?
 
-As we touched on above, Node.js only supports signle-threaded programming. It’s not suitable for performing long-running calculations. Heavy computations block the incoming requests, making the biggest advantage of Node.js useless.
+As we touched on above, Node.js only supports single-threaded programming. It’s not suitable for performing long-running calculations. Heavy computations block the incoming requests, making the biggest advantage of Node.js useless.
 
 While Node.js is perfect for lightweight yet complex apps, in the case of software that requires some heavy computing, it might perform less effectively than traditional methods.
