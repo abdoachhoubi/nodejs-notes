@@ -36,7 +36,9 @@ You can also reach me at <a href="mailto:abdo.achhoubi3@gmail.com"><b>abdo.achho
 
 1. **[What is Node.js](https://github.com/abdoachhoubi/nodejs-notes/tree/main/01%20NodeJS)**
 2. **[Installation and usage](https://github.com/abdoachhoubi/nodejs-notes/tree/main/02%20Installation)**
-3. [Core Modules](https://github.com/abdoachhoubi/nodejs-notes/tree/main/03%20Core%20Modules)
-4. [User-defined Modules (Not available yet)](#)
-5. [HTTP Module (Not available yet)](#)
-6. [File System (Not available yet)](#)
+3. **[Core Modules](https://github.com/abdoachhoubi/nodejs-notes/tree/main/03%20Core%20Modules)**
+4. **[Local Modules](https://github.com/abdoachhoubi/nodejs-notes/tree/main/04%20Local%20Modules)**
+5. [Node Package Manager npm (Not available yet)](#)
+6. [Third-party Modules (Not available yet)](#)
+7. [The File System (Not available yet)](#)
+8. [HTTP Server (Not available yet)](#)
