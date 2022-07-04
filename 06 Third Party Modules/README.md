@@ -29,4 +29,4 @@ console.log("Hello mom!");
 
 As you noticed, we require third-party modules the same way we require core modules!
 
-You can check `index.js` file to see an example of working with all types of modules and the best coding practice when dealing with them!
+You can check [`index.js`](https://github.com/abdoachhoubi/nodejs-notes/blob/main/06%20Third%20Party%20Modules/index.js) file to see an example of working with all types of modules and the best coding practice when dealing with them!
