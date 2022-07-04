@@ -39,6 +39,6 @@ You can also reach me at <a href="mailto:abdo.achhoubi3@gmail.com"><b>abdo.achho
 3. **[Core Modules](https://github.com/abdoachhoubi/nodejs-notes/tree/main/03%20Core%20Modules)**
 4. **[Local Modules](https://github.com/abdoachhoubi/nodejs-notes/tree/main/04%20Local%20Modules)**
 5. **[Node Package Manager npm](https://github.com/abdoachhoubi/nodejs-notes/tree/main/05%20NPM)**
-6. [Third-party Modules (Not available yet)](#)
+6. **[Third-party Modules](https://github.com/abdoachhoubi/nodejs-notes/tree/main/06%20Third%20Part%20Modules)**
 7. [The File System (Not available yet)](#)
 8. [HTTP Server (Not available yet)](#)
