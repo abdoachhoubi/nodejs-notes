@@ -83,3 +83,10 @@ So if we set the package version to:
 ```
 
 We tell npm that we're only looking if there's a new major update.
+
+## package-lock.json
+
+This file holds the versions of all our dependencies and their dependencies!
+It's an important file, so make sure to include it when saving a copy of your project in the cloud or in a repository hosting server like GitHub.
+And the `node_modules` folder holds a lot of folders and files!
+So by saving the `package-lock.json` and `package.json` files, you'll be able to get the `node_modules` folder in any other computer if you run `npm i` in the command prompt.
