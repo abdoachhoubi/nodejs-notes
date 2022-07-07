@@ -1,0 +1,14 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "an example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdo Achhoubi",
+  "license": "MIT",
+  "dependencies": {
+    "framer-motion": "~6.4.0"
+  }
+}
